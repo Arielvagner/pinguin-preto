@@ -83,7 +83,7 @@ function mostraPergunta(){
         motraResultado();
         return;
     }
-
+    perguntaAtual = perguntas[atual]
 
 }
 ]
